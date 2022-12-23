@@ -1,0 +1,2 @@
+Auto{make='Mercedes Benz', year=2020, power=5}
+Auto{make='Nissan', year=2022, power=0}
